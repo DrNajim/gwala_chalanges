@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> README </title>
 </head>
 <body>
-In this project we used to create a Sign in and Sign up to post Question and Answer Using React and Nodejs and MongoDB
+
+  <h1>In this project we used to create a Sign in and Sign up to post Question and Answer Using React and Nodejs and MongoDB</h1>
   <h1>Server README</h1>
 
   <p>This is the server-side code for this project "nodejs_gwala".</p>
